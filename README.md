@@ -1,2 +1,3 @@
 RTEK GUI using JAVA SWING<br />
-@author: Abdul Sattar Mapara (<a href="abdulsmapara.github.io">abdulsmapara.github.io</a>)
+@author: <br /><a href="abdulsmapara.github.io" target="__blank">Abdul Sattar Mapara</a><br />
+Saket Chopade
